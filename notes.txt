@@ -1,0 +1,3 @@
+- newer nextjs uses "app" folder, older uses "pages"
+- newer nextjs routing uses "route.js/ts" plus GET() (etc)
+- using "shared/" with types for use in front and back end
